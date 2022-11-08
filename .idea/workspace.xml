@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52c6ebf4-16c2-435a-95d4-89671d9582dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/amir-group.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-bundle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-busket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-discount.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-products.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon-trade.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider-for-a-minut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AllPages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SingleProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Review.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/.sass-cache/cfff68b553284cc767c63f30708ddaad522335dc/singleProduct.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/allPages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/checkout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/singleProduct.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/singleProduct.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/singleProduct.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2H7tBEOlaBSlfUHJzZ15n3si6mu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lessons JS/lesson-56" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52c6ebf4-16c2-435a-95d4-89671d9582dd" name="Default Changelist" comment="" />
+      <created>1667647811883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667647811883</updated>
+      <workItem from="1667647814813" duration="60286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/Checkout.js</url>
+          <line>41</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/SingleProduct.js</url>
+          <line>41</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/SingleProduct.js</url>
+          <line>132</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

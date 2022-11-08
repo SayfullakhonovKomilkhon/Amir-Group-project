@@ -1,0 +1,190 @@
+* {
+  box-sizing: border-box;
+}
+
+.header-checkout {
+  margin: 20px 40px 16px 20px ;
+  background: #F3F5F8;
+  border-radius: 6px;
+  width: 78%;
+  .header-checkout__top {
+    p {
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 14px;
+      color: #BBC2D0;
+      margin-top: 20px;
+      margin-left: 28px;
+      span {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        color: #00C48C;
+      }
+    }
+  }
+  .header-checkout__middle {
+    h2 {
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 26px;
+      color: #3D639D;
+      margin: 14px 0 20px 28px;
+    }
+  }
+  .header-checkout__bottom {
+    .header-checkout__bottom-label {
+      width: 1100px;
+      height: 50px;
+      margin: 0 0 30px 28px;
+      input {
+        width: 100%;
+        height: 100%;
+        border-radius: 26px 0 0 26px;
+        box-shadow: none;
+        outline: #3D639D;
+      }
+      input::placeholder {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #BBC2D0;
+        padding-left: 15px;
+      }
+      button {
+        width: 100px;
+        border-radius: 0 26px 26px 0;
+        background: #00C48C;
+        color: #fff;
+        box-shadow: none;
+
+      }
+    }
+  }
+  .main-checkout{
+    .main-checkout__top {
+      h3 {
+        margin-left: 28px;
+      }
+    }
+    .main-checkout__middle {
+      margin-top: 10px;
+      margin-left: 30px;
+      .main-checkout__product {
+        width: 192px;
+        height: 275px;
+        margin: 0 0 20px 24px ;
+        &:hover {
+          transform: translateY(-10px);
+          transition: all 0.5s;
+        }
+        .card {
+          width: 192px;
+          height: 275px;
+          border-radius: 6px;
+          border: none;
+          position: relative;
+          .card-body {
+            padding: 0;
+            .card-header {
+              border-bottom: none;
+              border-radius: 6px;
+              width: auto;
+              height: auto;
+              padding: 0;
+              margin: 12px 12px 6px 12px ;
+              background: #f7f7f7;
+              .card-header__img {
+                width: auto;
+                height: 143px;
+                margin: 16px 50px;
+              }
+              .card-header__icon {
+                position: absolute;
+                left: 18px;
+                top: 24px;
+                .card-icon__bundle {
+                  width: 36px;
+                  height: 28px;
+                  background-color: #A2AEDB;
+                  border-radius: 6px;
+                  img {
+                    width: 16px;
+                    height: 16px;
+                    margin: 6px 10px;
+                  }
+                }
+                .card-icon__discount {
+                  width: 36px;
+                  height: 28px;
+                  background-color: #FFBD95;
+                  border-radius: 6px;
+                  margin-top: 6px;
+                  img {
+                    width: 16px;
+                    height: 16px;
+                    margin: 6px 10px;
+                  }
+                }
+                .card-icon__trade {
+                  width: 36px;
+                  height: 28px;
+                  background-color: #F39DBD;
+                  border-radius: 6px;
+                  img {
+                    width: 16px;
+                    height: 16px;
+                    margin: 6px 10px;
+                  }
+                }
+              }
+            }
+            .card-body__bottom {
+              padding: 0 12px 12px;
+              color: #000;
+              h4 {
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 17px;
+                letter-spacing: -0.3px;
+                margin-bottom: 6px;
+              }
+              .price {
+                margin-bottom: 6px;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 18px;
+              }
+              .discount-price {
+                display: flex;
+                paddign-bottom: 10px;
+                .discount-price__number {
+                  width: 109px;
+                  height: 24px;
+                  background: #FF647C;
+                  color: #fff;
+                  border-radius: 2px ;
+                  font-weight: 600;
+                  font-size: 12px;
+                  line-height: 16px;
+                  padding: 2px 6px;
+
+                }
+                .discount-price__time {
+                  font-weight: 400;
+                  font-size: 11px;
+                  line-height: 13px;
+                  color: #BBC2D0;
+                  padding: 4px 0 0 6px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .footer-pagination {
+    padding: 15px 0;
+  }
+}

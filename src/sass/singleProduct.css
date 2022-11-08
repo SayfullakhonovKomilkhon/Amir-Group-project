@@ -1,0 +1,237 @@
+.slick-dots li {
+  position: relative;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  margin: 68px 0px;
+  padding: 0;
+  cursor: pointer; }
+
+.main-product {
+  background: #F3F5F8;
+  width: 80%;
+  margin-left: 20px;
+  margin-top: 20px; }
+  .main-product .main-product__title p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #BBC2D0;
+    margin-top: 20px;
+    margin-left: 28px; }
+    .main-product .main-product__title p span {
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 14px;
+      color: #00C48C; }
+  .main-product .main-product__middle {
+    background: #fff;
+    width: 95%;
+    min-height: 87%;
+    margin: 30px 28px; }
+    .main-product .main-product__middle .main-product__information h2 {
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 26px;
+      color: #3D639D;
+      padding: 30px 0 30px 30px;
+      margin: 0; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 {
+      position: relative; }
+      .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-img {
+        z-index: -99; }
+        .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-img img {
+          margin: 30px auto; }
+      .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon {
+        position: absolute;
+        left: 65px;
+        top: 26px;
+        z-index: 99; }
+        .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__bundle {
+          width: 36px;
+          height: 28px;
+          background-color: #A2AEDB;
+          border-radius: 6px; }
+          .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__bundle img {
+            width: 16px;
+            height: 16px;
+            margin: 6px 10px; }
+        .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__discount {
+          width: 36px;
+          height: 28px;
+          background-color: #FFBD95;
+          border-radius: 6px;
+          margin-top: 6px; }
+          .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__discount img {
+            width: 16px;
+            height: 16px;
+            margin: 6px 10px; }
+        .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__trade {
+          width: 36px;
+          height: 28px;
+          background-color: #F39DBD;
+          border-radius: 6px;
+          margin-top: 6px; }
+          .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__trade img {
+            width: 16px;
+            height: 16px;
+            margin: 6px 10px; }
+        .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__trade-green {
+          width: 36px;
+          height: 28px;
+          background-color: #AAD9AC;
+          border-radius: 6px;
+          margin-top: 6px; }
+          .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-product__slider-icon .card-icon__trade-green img {
+            width: 16px;
+            height: 16px;
+            margin: 6px 10px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-discount__price p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #BBC2D0;
+      margin-bottom: 8px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-discount__price h4 {
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 19px;
+      letter-spacing: 0.01em;
+      margin-bottom: 40px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-discount__all-price .main-discount__price-phone p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #BBC2D0;
+      margin-bottom: 8px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-discount__all-price .main-discount__price-phone h4 {
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 19px;
+      letter-spacing: 0.01em;
+      margin-bottom: 40px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-discount__all-price h5 {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 16px;
+      letter-spacing: -0.3px;
+      color: #BBC2D0;
+      margin: 30px 30px 0 0; }
+      .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-discount__all-price h5 span {
+        width: 108px;
+        height: 23px;
+        background: #FF647C;
+        color: #fff;
+        border-radius: 2px;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        padding: 2px 6px;
+        margin-right: 8px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .Mui-selected {
+      background: #00C48C;
+      color: #fff;
+      transition: all 0.5s linear; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .css-11yukd5-MuiTabs-indicator {
+      display: none; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .MuiTabs-flexContainer .css-1a4cg4j-MuiButtonBase-root-MuiTab-root {
+      border: 1px solid #00C48C; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-checkout__product-tab-price {
+      text-align: center;
+      margin-top: 8px;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #262728; }
+      .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount .main-checkout__product-tab-price span {
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.3px; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount__about h4 {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #BBC2D0; }
+    .main-product .main-product__middle .main-product__slider .row .col-lg-6 .main-discount__about p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #262728; }
+    .main-product .main-product__middle .main-product__bottom .main-product__stock {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      letter-spacing: -0.3px;
+      color: #00C48C;
+      margin: 30px 0 20px 30px; }
+    .main-product .main-product__middle .main-product__bottom .main-product__discount {
+      margin-top: 20px; }
+      .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__trade {
+        width: 36px;
+        height: 28px;
+        background-color: #F39DBD;
+        border-radius: 6px;
+        margin: 0 16px 40px 30px; }
+        .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__trade img {
+          width: 16px;
+          height: 16px;
+          margin: 6px 10px; }
+      .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__discount {
+        width: 36px;
+        height: 28px;
+        background-color: #FFBD95;
+        border-radius: 6px;
+        margin: 0 16px 40px 30px; }
+        .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__discount img {
+          width: 16px;
+          height: 16px;
+          margin: 6px 10px; }
+      .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__bundle {
+        width: 36px;
+        height: 28px;
+        background-color: #A2AEDB;
+        border-radius: 6px;
+        margin: 0 16px 40px 30px; }
+        .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__bundle img {
+          width: 16px;
+          height: 16px;
+          margin: 6px 10px; }
+      .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__trade-green {
+        width: 36px;
+        height: 28px;
+        background-color: #AAD9AC;
+        border-radius: 6px;
+        margin: 0 16px 40px 30px; }
+        .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .card-icon__trade-green img {
+          width: 16px;
+          height: 16px;
+          margin: 6px 10px; }
+      .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .main-product__discount-part-title h4 {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.3px;
+        color: #262728; }
+      .main-product .main-product__middle .main-product__bottom .main-product__discount .main-product__discount-part .main-product__discount-part-title p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #BBC2D0; }
+    .main-product .main-product__middle .main-product__bottom .line {
+      border-bottom: 1px solid #BBC2D0;
+      margin: 0 30px; }
+    .main-product .main-product__middle .main-product__button button {
+      width: 95%;
+      height: 52px;
+      margin: 30px 30px;
+      background: #00C48C;
+      border-radius: 25px;
+      color: #fff;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 19px;
+      text-align: center;
+      letter-spacing: 0.01em; }
+
+/*# sourceMappingURL=singleProduct.css.map */

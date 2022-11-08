@@ -1,0 +1,40 @@
+.site-header {
+  height: 70px;
+  .site-header__top-wrapper {
+    .site-header-start {
+      .site-header-logo {
+        padding: 26px 12px 26px 64px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        box-shadow: none;
+      }
+    }
+    .site-header-end {
+      .site-header__badge {
+        .site-header__badge-icon {
+          padding: 26px 40px 26px 64px;
+          box-shadow: none;
+        }
+      }
+      .site-header__account {
+        background-color: #3D639D;
+        width: 300px;
+        height: 70px;
+        border-bottom-left-radius: 30px;
+        .site-header__follow {
+          padding: 19px 0px 19px 0px;
+          color: #fff;
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 19px;
+          box-shadow: none;
+        }
+        .btn {
+
+        }
+      }
+    }
+  }
+}
+
